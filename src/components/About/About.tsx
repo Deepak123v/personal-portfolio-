@@ -3,7 +3,7 @@ import ProfileImage from "../../assets/photo.jpg.jpg";
 import python from "../../assets/python.svg"
 import java from "../../assets/java.svg"
 import wordpress from "../../assets/wordpress.svg";
-import shopify from "../../assets/shopify.svg";
+
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";
