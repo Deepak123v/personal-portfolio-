@@ -40,13 +40,7 @@ export function Hero() {
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
-        <a
-          href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak+I+found+your+contact+through+portfolio+site.%0A%0A"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img src={whatsapp} alt="Whatsapp" />
-        </a></div>
+       </div>
         </ScrollAnimation>
       </div>
       <div className="hero-image">
