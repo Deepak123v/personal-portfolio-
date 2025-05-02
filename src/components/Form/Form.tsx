@@ -67,23 +67,7 @@ export function Form() {
             setMessage(e.target.value)
           }}
         />
-        <ValidationError
-          prefix="Message"
-          field="message"
-          errors={state.errors}
-        />
-        <ReCAPTCHA
-          sitekey="6Lfj9NYfAAAAAP8wPLtzrsSZeACIcGgwuEIRvbSg"
-          onChange={(e) => {
-            setIsHuman(true)
-          }}
-        ></ReCAPTCHA>
-        <button
-          type="submit"
-          disabled={state.submitting || !validEmail || !message || !isHuman}
-        >
-          Submit
-        </button>
+       <button type="submit">Submit</button>
       </form>
       <ToastContainer />
     </Container>

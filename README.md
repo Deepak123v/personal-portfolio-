@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Deepak Vadla 
 
 <img src ="https://github.com/Deepak123v/personal-portfolio-/blob/main/Screenshot%20(38).png" />
  
